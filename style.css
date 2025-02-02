@@ -36,6 +36,7 @@ h2 {
     color: white;
     background-color: #010A67;
     border: 1px white solid;
+    touch-action: manipulation;
 }
 
 .buttons:hover {
