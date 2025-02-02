@@ -1,0 +1,112 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: #010A67;
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 25px;
+}
+
+#Varobau {
+    display: block;
+    margin: auto;
+    height: 50px;
+}
+
+#container {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#count {
+    text-align: center;
+    font-size: 100px;
+    margin: 10px;
+}
+
+.buttons {
+    font-size: 30px;
+    color: white;
+    background-color: #010A67;
+    border: 1px white solid;
+}
+
+.buttons:hover {
+    color: #010A67;
+    background-color: white;
+}
+
+.submit {
+    font-size: 25px;
+    color: white;
+    background-color: #010A67;
+    border: 1px white solid;
+}
+
+.submit:hover {
+    color: #010A67;
+    background-color: white;
+}
+
+input {
+    font-size: 25px;
+    width: 100px;
+}
+
+#Multipliers {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#start {
+    text-align: center;
+}
+
+#startButton {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #010A67;
+    border: 3px white solid;
+    border-radius: 5px;
+}
+
+#startButton:hover {
+    color: #010A67;
+    background-color: white;
+}
+
+#quit {
+    text-align: center;
+    padding-top: 10px;
+}
+
+#quitButton {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: #010A67;
+    border: 3px white solid;
+    border-radius: 5px;
+}
+
+#quitButton:hover {
+    color: #010A67;
+    background-color: white;
+}
+
+a {
+    color: #019A87
+}
+
+#rules {
+    padding-top: 20px;
+    text-align: center;
+}
